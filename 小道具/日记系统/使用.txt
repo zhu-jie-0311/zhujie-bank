@@ -1,0 +1,5 @@
+1.根据package.json 下载 npm包
+2.开启mongdb的服务
+3.开启监听端口
+
+ok!
